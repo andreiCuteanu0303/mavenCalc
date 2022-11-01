@@ -1,0 +1,498 @@
+2022-10-31 14:54:08,410 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 14:54:08,416 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 14:54:08,425 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 14:54:08,425 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 14:54:08,430 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddMoreOperands()
+2022-10-31 14:54:08,430 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddMoreOperands()
+2022-10-31 14:54:08,433 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 14:54:08,434 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 14:54:08,436 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-10-31 14:54:08,436 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-10-31 14:54:08,438 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 14:54:08,439 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 15:26:44,861 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:26:44,866 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:26:44,878 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:26:44,879 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:26:44,883 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddMoreOperands()
+2022-10-31 15:26:44,884 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddMoreOperands()
+2022-10-31 15:26:44,889 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:26:44,889 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:26:44,893 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-10-31 15:26:44,893 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-10-31 15:26:44,897 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 15:26:44,898 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 15:46:00,767 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:46:00,773 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:46:00,786 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:46:00,787 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:46:00,791 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:46:00,792 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:46:41,063 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:46:41,069 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:46:41,079 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:46:41,080 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:47:55,097 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:47:55,103 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:47:55,115 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:47:55,117 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNumbersGivenOperand0()
+2022-10-31 15:47:55,120 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:47:55,121 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 15:48:39,688 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 15:48:39,692 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 16:11:31,703 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-10-31 16:11:31,722 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-10-31 16:11:31,731 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-10-31 16:11:31,732 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-10-31 17:02:27,274 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] numberSource.csv
+2022-10-31 17:02:27,290 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] numberSource.csv
+2022-10-31 17:09:12,061 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-10-31 17:09:12,079 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-10-31 17:09:12,088 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:09:12,089 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:19:18,739 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:19:18,742 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:19:18,762 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-10-31 17:19:18,777 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-10-31 17:19:18,782 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-10-31 17:19:18,782 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-10-31 17:19:18,805 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:19:18,805 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:19:18,806 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-10-31 17:19:18,806 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-10-31 17:19:18,807 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 17:19:18,807 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 17:20:46,906 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:20:46,910 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:27:15,190 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:27:15,194 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:27:15,213 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-10-31 17:27:15,225 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-10-31 17:27:15,229 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-10-31 17:27:15,230 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-10-31 17:27:15,247 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:27:15,247 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:27:15,248 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-10-31 17:27:15,249 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-10-31 17:27:15,250 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 17:27:15,250 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-10-31 17:28:15,144 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:28:15,148 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-10-31 17:28:15,167 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-10-31 17:28:15,178 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-10-31 17:28:15,183 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-10-31 17:28:15,183 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-10-31 17:28:15,185 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:28:15,185 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-10-31 17:32:29,391 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 3
+2022-10-31 17:32:29,405 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 3
+2022-10-31 17:32:29,414 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:32:29,415 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:32:29,418 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 6, 7, 8
+2022-10-31 17:32:29,418 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 6, 7, 8
+2022-10-31 17:32:50,576 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-10-31 17:32:50,595 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-10-31 17:32:50,604 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:32:50,605 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-10-31 17:32:50,617 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-10-31 17:32:50,617 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-10-31 17:32:50,619 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-10-31 17:32:50,660 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-10-31 17:32:50,662 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-10-31 17:32:50,662 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-10-31 19:14:59,797 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-10-31 19:14:59,814 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-10-31 19:14:59,823 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-10-31 19:14:59,824 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-10-31 19:14:59,837 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-10-31 19:14:59,837 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-10-31 19:14:59,876 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-10-31 19:14:59,877 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-10-31 19:14:59,880 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-10-31 19:14:59,880 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 10:30:03,691 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:30:03,699 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:53:27,984 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:53:27,989 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:53:47,112 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 10:53:47,118 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 10:53:47,126 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:53:47,127 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:53:47,131 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 10:53:47,134 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 10:53:47,141 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 10:53:47,141 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 10:53:47,143 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactFor0()
+2022-11-01 10:53:47,143 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactFor0()
+2022-11-01 10:53:47,147 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWith0()
+2022-11-01 10:53:47,147 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWith0()
+2022-11-01 10:53:47,149 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 10:53:47,149 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 10:53:47,153 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 10:53:47,154 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 10:55:50,159 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 10:55:50,164 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 10:56:07,270 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:56:07,275 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWith0()
+2022-11-01 10:56:15,502 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 10:56:15,509 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 10:56:24,265 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 10:56:24,270 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 10:56:30,121 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 10:56:30,129 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 10:56:36,155 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWith0()
+2022-11-01 10:56:36,161 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWith0()
+2022-11-01 10:58:31,901 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 10:58:31,906 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 10:58:50,690 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 10:58:50,695 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 10:59:34,578 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 10:59:34,583 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:00:53,886 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:00:53,892 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:04:06,652 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:04:06,659 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:04:34,893 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:04:34,898 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:06:57,229 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWith0(int, int)
+2022-11-01 11:06:57,234 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWith0(int, int)
+2022-11-01 11:09:11,604 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:09:11,625 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:09:11,640 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:09:11,641 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:09:47,482 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:09:47,502 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:09:47,520 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:09:47,520 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:11:23,057 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:11:23,081 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:11:23,103 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:11:23,104 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:12:31,418 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:12:31,439 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:12:31,466 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:12:31,467 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:14:09,933 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:14:09,940 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:18:46,232 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:18:46,236 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:08,036 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:08,040 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:18,959 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:18,965 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:27,751 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:19:27,755 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:19:27,781 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,795 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,803 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,804 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,808 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:19:27,808 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:19:27,810 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:19:27,812 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:19:27,818 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:19:27,819 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:19:27,821 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:19:27,821 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:19:27,825 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,825 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,829 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,830 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,834 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:19:27,835 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:19:27,839 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:27,840 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:19:27,844 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,845 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:19:27,847 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,848 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:19:27,850 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:19:27,851 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:19:27,875 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:19:27,877 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:19:27,880 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:19:27,881 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:19:27,896 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:19:27,897 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:19:27,949 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:19:27,950 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:19:27,952 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:19:27,953 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:19:27,955 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:19:27,955 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:19:27,957 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:19:27,957 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:19:27,959 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:19:27,960 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:21:16,579 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:21:16,588 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:22:08,018 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:22:08,026 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:22:14,705 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:22:14,713 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:23:18,685 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:23:18,693 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:23:55,298 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:23:55,304 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:24:13,112 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:24:13,119 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:24:19,995 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:25:28,276 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:25:32,999 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:32:58,624 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:33:02,391 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:33:02,402 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:33:31,242 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:33:31,249 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:33:31,279 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,307 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,313 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,314 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,316 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:33:31,316 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:33:31,318 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:33:31,319 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:33:31,320 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:33:31,324 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:33:31,325 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:33:31,326 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:33:31,330 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,331 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,333 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,334 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,335 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:33:31,336 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:33:31,337 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:33:31,338 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:33:31,343 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,343 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:33:31,346 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,347 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:33:31,349 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:33:31,349 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:33:31,378 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:33:31,380 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:33:31,384 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:33:31,385 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:33:31,402 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:33:31,403 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:33:31,408 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:33:31,468 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:33:31,471 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:33:31,472 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:33:31,474 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:33:31,475 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:33:31,478 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:33:31,478 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:33:31,480 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:33:31,481 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:34:12,374 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:34:12,379 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:34:12,408 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:34:12,424 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:34:12,430 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:34:12,431 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:34:12,434 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:34:12,434 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:34:12,437 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:34:12,440 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:34:12,443 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:34:12,443 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:34:12,447 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:34:12,448 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:34:12,450 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:34:12,451 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:34:12,453 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:34:12,453 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:34:12,455 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:34:12,456 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:34:12,457 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:34:12,457 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:37:54,117 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:37:54,122 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:38:39,419 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:38:39,426 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:38:50,287 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:38:50,297 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:38:50,325 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,353 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,361 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,362 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,365 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:38:50,366 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:38:50,368 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:38:50,368 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:38:50,371 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:38:50,374 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:38:50,376 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:38:50,377 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:38:50,381 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,382 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,386 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,387 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,390 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:38:50,390 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:38:50,392 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:38:50,393 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:38:50,398 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,398 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:38:50,401 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,402 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:38:50,406 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:38:50,407 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:38:50,439 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:38:50,441 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:38:50,445 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:38:50,445 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:38:50,461 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:38:50,462 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:38:50,465 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:38:50,465 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:38:50,468 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:38:50,468 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:38:50,472 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:38:50,472 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:38:50,535 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:38:50,536 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:38:50,538 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:38:50,538 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:38:50,540 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:38:50,540 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:40:24,833 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:40:24,841 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:40:24,868 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,886 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,893 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,894 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,897 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:40:24,897 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:40:24,900 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:40:24,900 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:40:24,903 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:40:24,906 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:40:24,908 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:40:24,908 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:40:24,911 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,912 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,914 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,915 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,917 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:40:24,917 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:40:24,920 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:40:24,920 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:40:24,925 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,926 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:40:24,928 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,928 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:40:24,931 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:40:24,932 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:40:24,962 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:40:24,963 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:40:24,967 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:40:24,968 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:40:24,987 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:40:24,988 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:40:24,991 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:40:24,992 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:40:24,995 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:40:24,995 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:40:24,997 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:40:24,998 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:40:25,056 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:40:25,056 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:40:25,058 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:40:25,058 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:40:25,059 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:40:25,060 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:42:53,274 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:42:53,282 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:42:53,310 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,334 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,343 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,344 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,347 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:42:53,348 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:42:53,350 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:42:53,351 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:42:53,353 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:42:53,355 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:42:53,357 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:42:53,358 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:42:53,363 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,364 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,366 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,367 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,368 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:42:53,369 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:42:53,371 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:42:53,372 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:42:53,378 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,378 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:42:53,381 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,381 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:42:53,382 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:42:53,383 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:42:53,407 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:42:53,409 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:42:53,411 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:42:53,412 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:42:53,423 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:42:53,424 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:42:53,429 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:42:53,430 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:42:53,433 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:42:53,434 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:42:53,482 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:42:53,483 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:42:53,484 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:42:53,485 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:42:53,486 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:42:53,486 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:42:53,487 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:42:53,487 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:43:29,835 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:43:29,843 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyNoOperands()
+2022-11-01 11:43:29,874 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,898 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,906 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,907 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,910 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:43:29,911 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-01 11:43:29,913 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:43:29,913 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForNegativeNumber()
+2022-11-01 11:43:29,915 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:43:29,918 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithGivenNumbers()
+2022-11-01 11:43:29,919 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:43:29,920 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyWithNegativeNumbers()
+2022-11-01 11:43:29,924 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,925 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,928 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,929 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,931 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:43:29,932 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForGivenOperand()
+2022-11-01 11:43:29,934 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:43:29,935 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldPowWithNegativeNumbers()
+2022-11-01 11:43:29,939 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,940 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-01 11:43:29,943 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,943 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-01 11:43:29,945 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:43:29,946 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldMultiplyOneOperand()
+2022-11-01 11:43:29,972 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:43:29,973 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-01 11:43:29,977 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:43:29,977 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-01 11:43:29,993 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:43:29,994 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-01 11:43:29,996 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:43:29,997 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-01 11:43:29,999 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:43:29,999 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-01 11:43:30,001 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:43:30,001 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-01 11:43:30,043 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:43:30,043 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-01 11:43:30,044 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:43:30,045 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
+2022-11-01 11:43:30,046 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 11:43:30,046 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
