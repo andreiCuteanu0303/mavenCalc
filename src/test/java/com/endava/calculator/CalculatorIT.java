@@ -2,9 +2,11 @@ package com.endava.calculator;
 
 import com.endava.calculator.basic.Basic;
 import com.endava.calculator.expert.Expert;
+import com.endava.extensions.TestReporterExtension;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
@@ -12,6 +14,16 @@ import org.junit.jupiter.params.provider.MethodSource;
 import java.util.ArrayList;
 import java.util.List;
 
+//========================== Exercise 4 ============================
+// 4. Research a way to skip the tests for the surefire plugin and then for the failsafe plugin
+/**
+ * - How to skip the tests for the failsafe plugin:
+ *   1. Set pom surefire plugin <skipTest> property to false
+ *   2. Set pom failsafe plugin <skipTest> property to true
+ *   3. Run command "mvn install -DskipITs" in terminal
+ */
+
+@ExtendWith(TestReporterExtension.class)
 public class CalculatorIT {
     private Basic basic;
     private Expert expert;
@@ -47,8 +59,10 @@ public class CalculatorIT {
     //========================== Exercise 1 ============================
     // 1. Create testcases for multiply, pow and factorial methods
 
+    //========================== Exercise 2 ============================
+    // 2. Make the same tests run only on the verify phase
+
     //=========================== Multiply =============================
-    @Tag("homework")
     @ParameterizedTest
     @MethodSource("numberProvider")
     public void shouldMultiplyWith0(int a, int b){
@@ -66,7 +80,6 @@ public class CalculatorIT {
         return argumentsList;
     }
 
-    @Tag("homework")
     @Test
     public void shouldMultiplyWithNegativeNumbers(){
         //WHEN
@@ -75,7 +88,6 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
     @Test
     public void shouldMultiplyNoOperands(){
         //WHEN
@@ -84,7 +96,7 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
+
     @Test
     public void shouldMultiplyOneOperand(){
         //WHEN
@@ -95,7 +107,6 @@ public class CalculatorIT {
 
     //=========================== Power =============================
 
-    @Tag("homework")
     @Test
     public void shouldPowWithGivenNumbers(){
         //WHEN
@@ -104,7 +115,6 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
     @ParameterizedTest
     @MethodSource("numberProvider")
     public void shouldPowWith0(int a, int b){
@@ -114,7 +124,6 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
     @Test
     public void shouldPowWithNegativeNumbers(){
         //WHEN
@@ -125,7 +134,6 @@ public class CalculatorIT {
 
     //=========================== Factorial =============================
 
-    @Tag("homework")
     @Test
     public void shouldFactForGivenOperand(){
         //WHEN
@@ -134,7 +142,6 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
     @Test
     public void shouldFactForOperand0(){
         //WHEN
@@ -143,7 +150,7 @@ public class CalculatorIT {
         LOGGER.info(result);
     }
 
-    @Tag("homework")
+
     @Test
     public void shouldFactForNegativeNumber(){
         //WHEN

@@ -1,5 +1,6 @@
 package com.endava.extensions;
 
+// Exercise 3 : Refactor the test reporter extension and make it use a logger
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
