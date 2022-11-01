@@ -2,6 +2,8 @@ package com.endava.calculator;
 
 import com.endava.calculator.basic.Basic;
 import com.endava.calculator.expert.Expert;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -14,26 +16,28 @@ public class CalculatorIT {
     private Basic basic;
     private Expert expert;
 
+    public static final Logger LOGGER = LogManager.getLogger(CalculatorIT.class);
+
     @BeforeAll
     public static void setUpAllTests(){
-        System.out.println("Before All");
+        LOGGER.info("Before All");
     }
 
     @AfterAll
     public static void tearDownAllTests(){
-        System.out.println("After All");
+        LOGGER.info("After All");
     }
 
     @BeforeEach
     public void setUpEachTest() {
         basic = new Basic();
         expert = new Expert();
-        System.out.println("Before Each");
+        LOGGER.info("Before Each");
     }
 
     @AfterEach
     public void tearDownEachTest() {
-        System.out.println("After Each  \n");
+        LOGGER.info("After Each  \n");
     }
 
 
@@ -51,7 +55,7 @@ public class CalculatorIT {
         //WHEN
         double result = basic.multiply(a, b);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     public static List<Arguments> numberProvider(){
@@ -68,7 +72,7 @@ public class CalculatorIT {
         //WHEN
         double result = basic.multiply(-3, -23);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -77,7 +81,7 @@ public class CalculatorIT {
         //WHEN
         double result = basic.multiply();
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -86,7 +90,7 @@ public class CalculatorIT {
         //WHEN
         double result = basic.multiply(3);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     //=========================== Power =============================
@@ -97,7 +101,7 @@ public class CalculatorIT {
         //WHEN
         double result = expert.pow(4, 4);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -105,9 +109,9 @@ public class CalculatorIT {
     @MethodSource("numberProvider")
     public void shouldPowWith0(int a, int b){
         //WHEN
-        double resultPow = expert.pow(a, b);
+        double result = expert.pow(a, b);
         //THEN
-        System.out.println(resultPow);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -116,7 +120,7 @@ public class CalculatorIT {
         //WHEN
         double result = expert.pow(-3, -23);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     //=========================== Factorial =============================
@@ -127,7 +131,7 @@ public class CalculatorIT {
         //WHEN
         long result = expert.fact(8);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -136,7 +140,7 @@ public class CalculatorIT {
         //WHEN
         long result = expert.fact(0);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 
     @Tag("homework")
@@ -145,6 +149,6 @@ public class CalculatorIT {
         //WHEN
         double result = expert.fact(-4);
         //THEN
-        System.out.println(result);
+        LOGGER.info(result);
     }
 }

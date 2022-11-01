@@ -1,0 +1,12 @@
+com\endava\apache\StringWithLang3.class
+com\endava\calculator\basic\BasicOperations.class
+com\endava\apache\Log4jExample.class
+com\endava\google\Payment.class
+com\endava\apache\FilesReadWithCommonsIO.class
+com\endava\apache\DBConnectionExample.class
+com\endava\calculator\basic\Basic.class
+com\endava\calculator\expert\Expert.class
+com\endava\calculator\expert\ExpertOperations.class
+com\endava\google\GsonExample.class
+com\endava\extensions\TestReporterExtension.class
+com\endava\jackson\JacksonExample.class

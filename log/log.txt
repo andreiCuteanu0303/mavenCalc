@@ -496,3 +496,15 @@
 2022-11-01 11:43:30,045 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldFactForOperand0()
 2022-11-01 11:43:30,046 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
 2022-11-01 11:43:30,046 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-01 12:30:48,268 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-01 12:30:48,333 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-01 12:30:48,342 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-01 12:30:48,346 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-01 12:30:48,352 INFO c.e.c.CalculatorIT [main] 256.0
+2022-11-01 12:30:48,355 INFO c.e.c.CalculatorIT [main] 69.0
+2022-11-01 12:30:48,364 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-01 12:30:48,368 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-01 12:30:48,371 INFO c.e.c.CalculatorIT [main] 40320
+2022-11-01 12:30:48,373 INFO c.e.c.CalculatorIT [main] -0.0
+2022-11-01 12:30:48,376 INFO c.e.c.CalculatorIT [main] 3.0
+2022-11-01 12:30:48,378 INFO c.e.c.CalculatorIT [main] 1
