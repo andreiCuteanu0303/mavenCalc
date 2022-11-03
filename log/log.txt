@@ -2312,3 +2312,405 @@
 2022-11-03 19:46:11,110 INFO c.e.c.CalculatorTest [main] After Each  
 
 2022-11-03 19:46:11,115 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 20:09:37,549 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 20:09:37,559 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 20:09:37,561 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 20:09:37,562 INFO c.e.c.CalculatorTest [main] 0
+2022-11-03 20:09:37,564 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 20:09:37,564 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 20:09:37,571 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 20:10:33,666 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 20:10:33,676 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 20:10:33,678 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 20:10:33,682 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 20:10:33,683 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 20:10:33,689 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 20:17:17,439 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:17:35,573 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:17:35,598 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:17:35,600 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:17:35,615 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:17:35,616 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:17:35,629 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:17:35,629 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:17:35,629 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:17:35,629 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:17:35,635 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:18:02,791 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:18:02,818 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:18:02,820 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:18:02,837 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:18:02,838 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:18:02,846 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:18:02,846 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:18:02,846 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:18:02,847 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:18:02,849 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:19:45,319 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:19:45,346 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:19:45,348 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:19:45,366 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:19:45,367 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:19:45,376 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:19:45,376 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:19:45,377 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:19:45,377 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:19:45,379 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:26:41,174 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:26:41,183 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:26:41,185 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:26:41,242 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:26:41,243 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:26:41,248 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:26:56,919 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:26:56,931 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:26:56,933 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:26:56,937 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-03 20:26:56,938 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:26:56,939 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:26:56,943 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:29:22,631 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:29:22,639 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:29:22,640 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:29:22,642 INFO c.e.c.CalculatorIT [main] 3.0
+2022-11-03 20:29:22,643 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:29:22,643 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:29:22,650 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:36:27,353 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:36:27,379 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:36:27,381 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:36:27,443 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:36:27,444 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:36:27,455 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:36:27,455 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:36:27,456 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:36:27,456 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:36:27,461 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:36:48,521 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:36:48,545 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:36:48,547 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:36:48,601 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:36:48,601 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:36:48,609 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:36:48,610 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:36:48,611 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:36:48,611 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:36:48,613 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:37:06,030 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:37:06,056 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:37:06,058 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:37:06,118 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:37:06,119 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:37:06,127 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:37:06,127 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:37:06,129 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:37:06,129 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:37:06,131 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:38:12,643 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:38:12,652 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:38:12,654 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:38:12,655 INFO c.e.c.CalculatorIT [main] 40320
+2022-11-03 20:38:12,656 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:38:12,657 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:38:12,662 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:38:23,466 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:38:23,477 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:38:23,478 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:38:23,480 INFO c.e.c.CalculatorIT [main] 24
+2022-11-03 20:38:23,480 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:38:23,481 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:38:23,486 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:39:11,894 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:39:11,904 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:39:11,906 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:39:11,907 INFO c.e.c.CalculatorIT [main] 1
+2022-11-03 20:39:11,908 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:39:11,908 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:39:11,913 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:39:50,938 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:39:50,948 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:39:50,949 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:39:50,992 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:39:50,993 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:39:50,998 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:39:58,089 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:39:58,098 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:39:58,099 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:39:58,102 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-03 20:39:58,103 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:39:58,104 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:39:58,109 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:40:06,788 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:40:06,798 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:40:06,801 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:06,804 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-03 20:40:06,805 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:06,806 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:40:06,812 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:40:34,501 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:40:34,510 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:40:34,512 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:34,514 INFO c.e.c.CalculatorIT [main] 120.0
+2022-11-03 20:40:34,515 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:34,516 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:40:34,521 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:40:47,765 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:40:47,775 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:40:47,777 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:47,780 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-03 20:40:47,781 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:40:47,782 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:40:47,788 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:41:51,804 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:41:51,811 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:41:51,813 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:41:51,854 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:41:51,855 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:41:51,860 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:42:07,186 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:42:07,195 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,197 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:42:07,204 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:42:07,205 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,232 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,232 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:42:07,247 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:42:07,248 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,255 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,255 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:42:07,255 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:42:07,256 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,258 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,258 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:42:07,302 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:42:07,302 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,304 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,304 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:42:07,306 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:42:07,306 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,307 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,307 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:42:07,309 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:42:07,309 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,312 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,312 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:42:07,313 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:42:07,313 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,314 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,315 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:42:07,315 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:42:07,315 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,317 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,317 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:42:07,318 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:42:07,318 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,319 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,319 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:42:07,324 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:42:07,325 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,326 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,327 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:42:07,327 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:42:07,328 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,329 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:07,329 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:42:07,329 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:42:07,330 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:07,331 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:42:42,596 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:42:42,605 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:42,607 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:42:42,612 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:42:42,613 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:42,619 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:42:47,772 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:42:47,781 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:42:47,784 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:42:47,792 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:42:47,794 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:42:47,806 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:43:06,394 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:43:06,404 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:06,406 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:43:06,414 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:43:06,415 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:06,421 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:43:15,918 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:43:15,927 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:15,930 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:43:15,936 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:43:15,937 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:15,961 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:15,961 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:43:15,977 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:43:15,978 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:15,983 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:15,983 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:43:15,983 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:43:15,984 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:15,986 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:15,986 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:43:16,029 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:43:16,030 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,031 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,031 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:43:16,035 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:43:16,036 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,037 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,038 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:43:16,039 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:43:16,040 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,042 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,043 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:43:16,043 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:43:16,044 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,045 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,045 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:43:16,045 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:43:16,045 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,046 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,046 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:43:16,047 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:43:16,048 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,048 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,048 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:43:16,054 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:43:16,054 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,057 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,058 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:43:16,058 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:43:16,058 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,059 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:43:16,059 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:43:16,059 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:43:16,059 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:43:16,062 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:44:22,822 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:44:22,831 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:44:22,833 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:44:22,882 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:44:22,883 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:44:22,891 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:46:58,073 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:46:58,082 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:46:58,084 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:46:58,137 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:46:58,138 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:46:58,144 INFO c.e.c.CalculatorIT [main] After All
+2022-11-03 20:47:05,923 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-03 20:47:05,932 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:05,934 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:47:05,939 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-03 20:47:05,940 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:05,961 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:05,961 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:47:05,976 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:47:05,976 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:05,980 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:05,980 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:47:05,981 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:47:05,981 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:05,982 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:05,982 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:47:06,024 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-03 20:47:06,025 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,026 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,027 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:47:06,030 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-03 20:47:06,030 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,031 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,031 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:47:06,033 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-03 20:47:06,033 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,036 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,036 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:47:06,036 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2, 0
+2022-11-03 20:47:06,036 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,038 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,038 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:47:06,038 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0, 0
+2022-11-03 20:47:06,039 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,040 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,040 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:47:06,041 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-03 20:47:06,041 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,042 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,042 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:47:06,042 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-03 20:47:06,042 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,043 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,044 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:47:06,044 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-03 20:47:06,044 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,045 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-03 20:47:06,045 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:47:06,045 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-03 20:47:06,045 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-03 20:47:06,047 INFO c.e.c.CalculatorIT [main] After All

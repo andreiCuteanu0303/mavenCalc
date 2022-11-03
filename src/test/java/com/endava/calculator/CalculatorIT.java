@@ -5,6 +5,7 @@ import com.endava.calculator.expert.Expert;
 import com.endava.extensions.TestReporterExtension;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.hamcrest.Matcher;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
@@ -14,6 +15,11 @@ import org.junit.platform.launcher.core.LauncherFactory;
 
 import java.util.ArrayList;
 import java.util.List;
+
+
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.*;
+import static org.assertj.core.api.Assertions.assertThat;
 
 //========================== Exercise 4 ============================
 // 4. Research a way to skip the tests for the surefire plugin and then for the failsafe plugin
@@ -33,7 +39,7 @@ public class CalculatorIT{
 
     @BeforeAll
     public static void setUpAllTests(){
-        LauncherFactory.create().registerTestExecutionListeners();
+//        LauncherFactory.create().registerTestExecutionListeners();
         LOGGER.info("Before All");
     }
 
@@ -67,17 +73,18 @@ public class CalculatorIT{
     //=========================== Multiply =============================
     @ParameterizedTest
     @MethodSource("numberProvider")
-    public void shouldMultiplyWith0(int a, int b){
+    public void shouldMultiplyWith0(int a, int b, double expected){
         //WHEN
         double result = basic.multiply(a, b);
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(expected));
+        assertThat(result, greaterThanOrEqualTo(expected));
     }
 
     public static List<Arguments> numberProvider(){
         List<Arguments> argumentsList = new ArrayList<>();
-        argumentsList.add(Arguments.of(0, 2));
-        argumentsList.add(Arguments.of(2, 0));
+        argumentsList.add(Arguments.of(0, 2, 0));
+        argumentsList.add(Arguments.of(2, 0, 0));
 
         return argumentsList;
     }
@@ -87,7 +94,9 @@ public class CalculatorIT{
         //WHEN
         double result = basic.multiply(-3, -23);
         //THEN
-        LOGGER.info(result);
+        assertThat(69).isOdd()
+                .isEqualTo(69L)
+                .isLessThan(100);
     }
 
     @Test
@@ -95,16 +104,18 @@ public class CalculatorIT{
         //WHEN
         double result = basic.multiply();
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(1.0));
+        assertThat(1.0, greaterThan(0.0));
     }
 
 
     @Test
     public void shouldMultiplyOneOperand(){
         //WHEN
-        double result = basic.multiply(3);
+        double result = basic.multiply(3.0);
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(3.0));
+        assertThat(3.0, greaterThanOrEqualTo(0.0));
     }
 
     //=========================== Power =============================
@@ -112,26 +123,34 @@ public class CalculatorIT{
     @Test
     public void shouldPowWithGivenNumbers(){
         //WHEN
-        double result = expert.pow(4, 4);
+        double result = expert.pow(4, 3);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isFinite()
+                .isNotNull()
+                .isEqualTo(64)
+                .isGreaterThan(0);
     }
 
     @ParameterizedTest
     @MethodSource("numberProvider")
-    public void shouldPowWith0(int a, int b){
+    public void shouldPowWith0(int a, int b, double expected){
         //WHEN
         double result = expert.pow(a, b);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isFinite()
+                .isNotNull()
+                .isGreaterThanOrEqualTo(expected);
     }
 
     @Test
     public void shouldPowWithNegativeNumbers(){
         //WHEN
-        double result = expert.pow(-3, -23);
+        double result = expert.pow(-5, -3);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isNotNull()
+                .isEqualTo(-0.008)
+                .isLessThan(0.0)
+                .isNegative();
     }
 
     //=========================== Factorial =============================
@@ -139,9 +158,11 @@ public class CalculatorIT{
     @Test
     public void shouldFactForGivenOperand(){
         //WHEN
-        long result = expert.fact(8);
+        long result = expert.fact(4);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isNotNull()
+                .isEqualTo(24)
+                .isGreaterThan(4);
     }
 
     @Test
@@ -149,15 +170,19 @@ public class CalculatorIT{
         //WHEN
         long result = expert.fact(0);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isNotNull()
+                .isEqualTo(1L)
+                .isLessThan(100L);
     }
 
 
     @Test
     public void shouldFactForNegativeNumber(){
         //WHEN
-        double result = expert.fact(-4);
+        double result = expert.fact(-3);
         //THEN
-        LOGGER.info(result);
+        assertThat(result).isNotNull()
+                .isEqualTo(1)
+                .isGreaterThan(0);
     }
 }

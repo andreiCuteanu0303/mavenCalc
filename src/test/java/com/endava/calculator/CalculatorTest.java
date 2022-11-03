@@ -116,7 +116,7 @@ public class CalculatorTest {
         //WHEN
         int result = basic.add();
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(0));
     }
 
     @Test
@@ -124,7 +124,7 @@ public class CalculatorTest {
         //WHEN
         int result = basic.add(4);
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(4));
     }
 
     @ParameterizedTest
