@@ -10,6 +10,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;
+import org.junit.platform.launcher.core.LauncherFactory;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,7 +25,7 @@ import java.util.List;
  */
 
 @ExtendWith(TestReporterExtension.class)
-public class CalculatorIT {
+public class CalculatorIT{
     private Basic basic;
     private Expert expert;
 
@@ -32,6 +33,7 @@ public class CalculatorIT {
 
     @BeforeAll
     public static void setUpAllTests(){
+        LauncherFactory.create().registerTestExecutionListeners();
         LOGGER.info("Before All");
     }
 

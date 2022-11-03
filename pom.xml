@@ -78,6 +78,41 @@
       <scope>test</scope>
     </dependency>
 
+    <dependency>
+      <groupId>org.junit.platform</groupId>
+      <artifactId>junit-platform-launcher</artifactId>
+      <version>1.9.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.junit.platform</groupId>
+      <artifactId>junit-platform-launcher</artifactId>
+      <version>1.9.1</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.google.auto.service</groupId>
+      <artifactId>auto-service-annotations</artifactId>
+      <version>1.0.1</version>
+    </dependency>
+
+    <dependency>
+      <groupId>org.hamcrest</groupId>
+      <artifactId>hamcrest</artifactId>
+      <version>2.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.hamcrest</groupId>
+      <artifactId>hamcrest</artifactId>
+      <version>2.2</version>
+      <scope>compile</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>org.assertj</groupId>
+      <artifactId>assertj-core</artifactId>
+      <version>3.23.1</version>
+    </dependency>
   </dependencies>
 
   <build>
@@ -119,7 +154,7 @@
         <configuration>
 <!--          <groups></groups>-->
 <!--          <excludedGroups></excludedGroups>-->
-            <skipTests>true</skipTests>
+            <skipTests>false</skipTests>
         </configuration>
       </plugin>
 
@@ -138,7 +173,7 @@
         <configuration>
 <!--          <groups>failsafe</groups>-->
 <!--          <excludedGroups>surefire</excludedGroups>-->
-          <skipITs>false</skipITs>
+          <skipITs>true</skipITs>
         </configuration>
       </plugin>
     </plugins>

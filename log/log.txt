@@ -1962,3 +1962,353 @@
 2022-11-01 15:51:52,626 INFO c.e.c.CalculatorTest [main] After Each  
 
 2022-11-01 15:51:52,628 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 11:23:49,296 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 11:23:49,387 INFO c.e.c.CalculatorIT [main] Before All
+2022-11-02 11:23:49,403 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,409 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-02 11:23:49,411 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-02 11:23:49,412 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyNoOperands()
+2022-11-02 11:23:49,413 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,453 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,453 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2
+2022-11-02 11:23:49,471 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-02 11:23:49,473 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2
+2022-11-02 11:23:49,473 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,481 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,482 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0
+2022-11-02 11:23:49,482 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-02 11:23:49,482 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0
+2022-11-02 11:23:49,483 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,486 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,486 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-02 11:23:49,487 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-02 11:23:49,487 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForNegativeNumber()
+2022-11-02 11:23:49,487 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,489 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,490 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-02 11:23:49,493 INFO c.e.c.CalculatorIT [main] 256.0
+2022-11-02 11:23:49,494 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithGivenNumbers()
+2022-11-02 11:23:49,494 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,496 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,496 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-02 11:23:49,497 INFO c.e.c.CalculatorIT [main] 69.0
+2022-11-02 11:23:49,497 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyWithNegativeNumbers()
+2022-11-02 11:23:49,498 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,501 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,502 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[1] 0, 2
+2022-11-02 11:23:49,503 INFO c.e.c.CalculatorIT [main] 0.0
+2022-11-02 11:23:49,503 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[1] 0, 2
+2022-11-02 11:23:49,504 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,507 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,507 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/[2] 2, 0
+2022-11-02 11:23:49,508 INFO c.e.c.CalculatorIT [main] 1.0
+2022-11-02 11:23:49,508 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/[2] 2, 0
+2022-11-02 11:23:49,508 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,510 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,510 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForGivenOperand()
+2022-11-02 11:23:49,511 INFO c.e.c.CalculatorIT [main] 40320
+2022-11-02 11:23:49,511 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForGivenOperand()
+2022-11-02 11:23:49,511 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,513 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,513 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-02 11:23:49,513 INFO c.e.c.CalculatorIT [main] -0.0
+2022-11-02 11:23:49,514 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldPowWithNegativeNumbers()
+2022-11-02 11:23:49,514 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,516 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,516 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-02 11:23:49,516 INFO c.e.c.CalculatorIT [main] 3.0
+2022-11-02 11:23:49,517 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldMultiplyOneOperand()
+2022-11-02 11:23:49,517 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,519 INFO c.e.c.CalculatorIT [main] Before Each
+2022-11-02 11:23:49,519 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorIT/shouldFactForOperand0()
+2022-11-02 11:23:49,520 INFO c.e.c.CalculatorIT [main] 1
+2022-11-02 11:23:49,520 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorIT/shouldFactForOperand0()
+2022-11-02 11:23:49,520 INFO c.e.c.CalculatorIT [main] After Each  
+
+2022-11-02 11:23:49,522 INFO c.e.c.CalculatorIT [main] After All
+2022-11-02 11:23:49,527 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 14:44:58,816 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 14:44:58,835 INFO c.e.e.CustomTestExecutionListener [main] JUnit Jupiter
+2022-11-02 14:44:58,849 INFO c.e.e.CustomTestExecutionListener [main] CalculatorTest
+2022-11-02 14:44:58,864 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 14:44:58,869 INFO c.e.e.CustomTestExecutionListener [main] CalculatorTest
+2022-11-02 14:44:58,878 INFO c.e.e.CustomTestExecutionListener [main] JUnit Jupiter
+2022-11-02 14:44:58,880 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 14:59:45,700 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 14:59:45,719 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started JUnit Jupiter
+2022-11-02 14:59:45,733 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started CalculatorTest
+2022-11-02 14:59:45,749 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 14:59:45,753 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished CalculatorTest
+2022-11-02 14:59:45,761 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished JUnit Jupiter
+2022-11-02 14:59:45,762 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionFinished [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:00:06,097 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:00:06,118 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started JUnit Jupiter
+2022-11-02 15:00:06,133 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started CalculatorTest
+2022-11-02 15:00:06,150 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 15:00:06,154 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished CalculatorTest
+2022-11-02 15:00:06,164 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished JUnit Jupiter
+2022-11-02 15:00:06,165 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionFinished [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:08:15,365 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:08:15,385 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started JUnit Jupiter
+2022-11-02 15:08:15,398 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started CalculatorTest
+2022-11-02 15:08:15,413 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 15:08:15,417 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished CalculatorTest
+2022-11-02 15:08:15,426 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished JUnit Jupiter
+2022-11-02 15:08:15,427 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionFinished [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:17:18,116 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionStarted [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-02 15:17:18,138 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started JUnit Jupiter
+2022-11-02 15:17:18,153 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Started CalculatorTest
+2022-11-02 15:17:18,172 INFO c.e.c.CalculatorTest [main] After All
+2022-11-02 15:17:18,176 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished CalculatorTest
+2022-11-02 15:17:18,186 INFO c.e.e.CustomTestExecutionListener [main] ########## Test Execution Finished JUnit Jupiter
+2022-11-02 15:17:18,187 INFO c.e.e.CustomTestExecutionListener [main] ##########testPlanExecutionFinished [TestIdentifier [uniqueId = [engine:junit-jupiter], parentId = null, displayName = 'JUnit Jupiter', legacyReportingName = 'JUnit Jupiter', source = null, tags = [], type = CONTAINER]]
+2022-11-03 09:43:59,275 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 09:45:08,431 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 09:45:44,655 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 09:45:44,672 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 09:45:44,675 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:45:44,679 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:45:44,680 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 09:45:44,689 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 09:47:57,182 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 09:47:57,196 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 09:47:57,199 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:47:57,205 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:47:57,206 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 09:47:57,217 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 09:48:19,670 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 09:48:19,683 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 09:48:19,685 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:48:19,690 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:48:19,692 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 09:48:19,698 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 09:48:29,526 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 09:48:29,543 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 09:48:29,547 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:48:29,556 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 09:48:29,558 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 09:48:29,569 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:14:32,977 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:14:32,993 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:14:32,996 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:14:33,003 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:14:33,004 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:14:33,018 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:14:49,686 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:14:49,702 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:14:49,707 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:14:49,715 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:14:49,716 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:14:49,728 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:15:49,554 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:15:49,571 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:15:49,574 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:15:49,586 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:15:49,587 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:15:49,601 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:16:15,725 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:16:15,739 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:16:15,743 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:16:15,752 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:16:15,753 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:16:15,770 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:16:48,320 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:16:48,339 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:16:48,343 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:16:48,352 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:16:48,353 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:16:48,368 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:17:29,793 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:17:29,810 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:17:29,813 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:17:29,820 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:17:29,821 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:17:29,836 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:17:58,690 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:17:58,705 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:17:58,708 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:17:58,717 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:17:58,718 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:17:58,727 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:18:38,329 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:18:38,344 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:18:38,347 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:18:38,356 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:18:38,357 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:18:38,367 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 10:19:47,736 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 10:19:47,748 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 10:19:47,751 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:19:47,758 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 10:19:47,759 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 10:19:47,769 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 11:35:25,784 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 11:35:25,813 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,817 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 11:35:25,827 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 11:35:25,829 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:25,866 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,867 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2
+2022-11-03 11:35:25,888 INFO c.e.c.CalculatorTest [main] 2
+2022-11-03 11:35:25,890 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2
+2022-11-03 11:35:25,890 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:25,898 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,898 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0
+2022-11-03 11:35:25,899 INFO c.e.c.CalculatorTest [main] 2
+2022-11-03 11:35:25,899 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0
+2022-11-03 11:35:25,900 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:25,935 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,936 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-03 11:35:25,936 INFO c.e.c.CalculatorTest [main] 7
+2022-11-03 11:35:25,937 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-03 11:35:25,937 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:25,942 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,943 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-03 11:35:25,944 INFO c.e.c.CalculatorTest [main] 11
+2022-11-03 11:35:25,944 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-03 11:35:25,944 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:25,963 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:25,964 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3
+2022-11-03 11:35:25,964 INFO c.e.c.CalculatorTest [main] 6
+2022-11-03 11:35:25,965 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3
+2022-11-03 11:35:25,965 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,028 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:26,029 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5
+2022-11-03 11:35:26,029 INFO c.e.c.CalculatorTest [main] 11
+2022-11-03 11:35:26,029 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5
+2022-11-03 11:35:26,029 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,031 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:26,032 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8
+2022-11-03 11:35:26,032 INFO c.e.c.CalculatorTest [main] 21
+2022-11-03 11:35:26,032 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8
+2022-11-03 11:35:26,033 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,034 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:26,034 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 11:35:26,039 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddNegativeNumbers()
+2022-11-03 11:35:26,039 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,042 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:26,043 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddOneOperand()
+2022-11-03 11:35:26,043 INFO c.e.c.CalculatorTest [main] 4
+2022-11-03 11:35:26,043 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddOneOperand()
+2022-11-03 11:35:26,044 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,045 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 11:35:26,046 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 11:35:26,046 INFO c.e.c.CalculatorTest [main] 0
+2022-11-03 11:35:26,046 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddZeroOperand()
+2022-11-03 11:35:26,047 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 11:35:26,051 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 16:29:34,001 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 16:29:34,032 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:29:34,034 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 0, 2, 2
+2022-11-03 16:29:34,053 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 0, 2, 2
+2022-11-03 16:29:34,054 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:29:34,064 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:29:34,064 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 0, 2
+2022-11-03 16:29:34,065 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 0, 2
+2022-11-03 16:29:34,065 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:29:34,067 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 16:32:19,095 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 16:32:19,141 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:19,144 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4
+2022-11-03 16:32:19,160 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4
+2022-11-03 16:32:19,161 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:19,175 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:19,175 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5
+2022-11-03 16:32:19,176 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5
+2022-11-03 16:32:19,176 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:19,189 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:19,189 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3, 6
+2022-11-03 16:32:19,228 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3, 6
+2022-11-03 16:32:19,229 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:19,231 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:19,231 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5, 11
+2022-11-03 16:32:19,231 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5, 11
+2022-11-03 16:32:19,231 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:19,233 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:19,233 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8, 21
+2022-11-03 16:32:19,234 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8, 21
+2022-11-03 16:32:19,234 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:19,236 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 16:32:39,526 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 16:32:39,572 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:39,574 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[1] 1, 2, 4, 7
+2022-11-03 16:32:39,591 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[1] 1, 2, 4, 7
+2022-11-03 16:32:39,592 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:39,601 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:39,601 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[2] 2, 4, 5, 11
+2022-11-03 16:32:39,602 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[2] 2, 4, 5, 11
+2022-11-03 16:32:39,603 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:39,613 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:39,613 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[3] 1, 2, 3, 6
+2022-11-03 16:32:39,613 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[3] 1, 2, 3, 6
+2022-11-03 16:32:39,614 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:39,655 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:39,656 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[4] 2, 4, 5, 11
+2022-11-03 16:32:39,656 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[4] 2, 4, 5, 11
+2022-11-03 16:32:39,657 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:39,658 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 16:32:39,659 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/[5] 6, 7, 8, 21
+2022-11-03 16:32:39,659 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/[5] 6, 7, 8, 21
+2022-11-03 16:32:39,659 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 16:32:39,661 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 19:39:25,140 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 19:39:25,149 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 19:39:25,151 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 19:39:25,158 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 19:39:25,159 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 19:39:25,168 INFO c.e.c.CalculatorTest [main] After All
+2022-11-03 19:46:11,091 INFO c.e.c.CalculatorTest [main] Before All
+2022-11-03 19:46:11,100 INFO c.e.c.CalculatorTest [main] Before Each
+2022-11-03 19:46:11,102 INFO c.e.e.TestReporterExtension [main] Starting test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 19:46:11,109 INFO c.e.e.TestReporterExtension [main] Finishing test CalculatorTest/shouldAddBigNumbers()
+2022-11-03 19:46:11,110 INFO c.e.c.CalculatorTest [main] After Each  
+
+2022-11-03 19:46:11,115 INFO c.e.c.CalculatorTest [main] After All

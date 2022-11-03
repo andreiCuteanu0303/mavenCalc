@@ -12,9 +12,14 @@ import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.CsvFileSource;
 import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.MethodSource;
+import org.junit.platform.launcher.core.LauncherFactory;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.*;
+import static org.junit.jupiter.api.Assertions.*;
 
 //========================== Exercise 4 ============================
 // 4. Research a way to skip the tests for the surefire plugin and then for the failsafe plugin
@@ -36,6 +41,7 @@ public class CalculatorTest {
 
     @BeforeAll
     public static void setUpAllTests(){
+//        LauncherFactory.create().registerTestExecutionListeners();
         LOGGER.info("Before All");
     }
 
@@ -60,18 +66,18 @@ public class CalculatorTest {
     @Tags({@Tag("smoke"), @Tag("ui")})
     @ParameterizedTest
     @MethodSource("numberProvider")
-    public void shouldAddNumbersGivenOperand0(int a, int b){
+    public void shouldAddNumbersGivenOperand0(int a, int b, long expected){
         //WHEN
         long result = basic.add(a, b);
 
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(expected));
     }
 
     public static List<Arguments> numberProvider(){
         List<Arguments> argumentsList = new ArrayList<>();
-        argumentsList.add(Arguments.of(0, 2));
-        argumentsList.add(Arguments.of(2, 0));
+        argumentsList.add(Arguments.of(0, 2, 2));
+        argumentsList.add(Arguments.of(2, 0, 2));
 
         return argumentsList;
     }
@@ -83,17 +89,26 @@ public class CalculatorTest {
         long result = basic.add(-2, -4);
 
         //THEN
-        LOGGER.info(result);
+        assertEquals(-6L, result);
+        assertTrue(result == -6L);
     }
 
+    //Bug found: JIRA-1456
     @Tags({@Tag("smoke"), @Tag("api")})
     @Test
+    @DisplayName("Test that adds a big number as: MAX_INT")
     public void shouldAddBigNumbers() {
-        //WHEN
-        int result = basic.add(Integer.MAX_VALUE, 1);
 
-        //THEN
-        LOGGER.info(result);
+        assertThrows(AssertionError.class, () ->{
+            //WHEN
+            long result = basic.add(Integer.MAX_VALUE, 1L);
+
+            //THEN
+            assertThat(result, is(Integer.MAX_VALUE + 1L));
+            //bug next
+            assertThat(result, lessThan(0L));
+            assertThat(result, notNullValue());
+        });
     }
 
     @Test
@@ -113,12 +128,12 @@ public class CalculatorTest {
     }
 
     @ParameterizedTest
-    @CsvSource({"1,2,4", "2,4,5"})
+    @CsvSource({"1,2,4,7", "2,4,5,11"})
     @CsvFileSource(resources = "/com.endava.calculator/numberSources.csv")
-    public void shouldAddMoreOperands(Integer a1, Integer b2, Integer c3){
+    public void shouldAddMoreOperands(Integer a1, Integer b2, Integer c3, int expected){
         //WHEN
         int result = basic.add(a1, b2, c3);
         //THEN
-        LOGGER.info(result);
+        assertThat(result, is(expected));
     }
 }
